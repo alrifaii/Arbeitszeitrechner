@@ -2,7 +2,7 @@
 Rechnet die verbleibende Zeit bis zum Feierabend.
 
 
-#Verbleibendee Zeit:
+# Verbleibendee Zeit:
 
 
 
@@ -11,7 +11,7 @@ Rechnet die verbleibende Zeit bis zum Feierabend.
 
 
 
-#Überstunden
+# Überstunden
 
 
 
